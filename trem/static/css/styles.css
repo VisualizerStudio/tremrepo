@@ -1,0 +1,505 @@
+.iframe-sermons{
+    margin-right: 50px
+    margin-top: 30px;
+    width: 420px;
+    height: 220px;
+}
+@media (max-width:660px) {  
+  .iframe-sermons{
+    margin-right: inherit;
+    margin-top: 30px;
+    width: 270px;
+    height: 170px;
+  }
+}
+.iframe-sermons1{
+  margin-left: 50px;
+  margin-top: 30px;
+  width: 420px;
+  height: 220px;
+}
+@media (max-width:660px) {
+  .iframe-sermons1{
+    margin-left: inherit;
+    margin-top: 30px;
+    width: 270px;
+    height: 170px;
+  }
+}
+.footer-widget{
+  display: inline-block;
+  color: #fff;
+  width: 100%;
+  background-color: #303030;
+  vertical-align: middle;
+  text-align: center;
+  padding: 30px 0;
+}
+#confe{
+  font-size: 1rem;
+}
+.fname{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1rem;
+}
+.form{
+  margin-right: 10px;
+}
+form#contactForm .form-group {
+  margin-bottom: 1.5rem;
+}
+form#contactForm .form-group input,
+form#contactForm .form-group textarea {
+  padding: 1.25rem;
+}
+form#contactForm .form-group input.form-control {
+  height: auto;
+}
+form#contactForm .form-group-textarea {
+  height: 100%;
+}
+form#contactForm .form-group-textarea textarea {
+  height: 100%;
+  min-height: 10rem;
+}
+form#contactForm p.help-block {
+  margin: 0;
+}
+form#contactForm .form-control:focus {
+  border-color: #fed136;
+  box-shadow: none;
+}
+form#contactForm ::-webkit-input-placeholder {
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  color: #ced4da;
+}
+form#contactForm :-moz-placeholder {
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  color: #ced4da;
+}
+form#contactForm ::-moz-placeholder {
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  color: #ced4da;
+}
+form#contactForm :-ms-input-placeholder {
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  color: #ced4da;
+}
+
+footer {
+  background: #171717;
+  color: #aaa;
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
+  font-size: 11px;
+  padding: 25px 0;
+  width: 100%;
+}
+footer .trem-footer{
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+}
+footer .addres{
+  letter-spacing: 1px;
+}
+footer .email-phone{
+  margin-top: 1px;
+  letter-spacing: 1px;
+}
+footer a {
+  color: #aaa;
+  text-transform: uppercase;
+}
+footer .footer-logo {
+  max-width: 100%;
+  height: auto;
+}
+footer .footer-social a {
+  color: #fff;
+  display: inline-block;
+  font-size: 12px;
+  padding-left: 8px;
+}
+footer {
+  padding: 20px 0;
+  text-align: center;
+}
+footer .footer-logo,
+footer .footer-social {
+  float: none !important;
+  text-align: center;
+}
+footer .copyright {
+  font-weight: 700;
+  font-size: 1.5rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: white;
+  padding: 15px 0;
+}
+.about{
+  margin-bottom: 150px;
+}
+
+.second-service{
+  margin-left: 100px;
+}
+@media (max-width:660px) {
+  .second-service{
+    margin-left: inherit;
+  }
+}
+.service-details{
+  font-weight: 500;
+  font-size: larger;
+}
+#latest-sermons{
+  margin-bottom: 150px;
+  color: white;
+  background-color: red;
+  border-color: red;
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 12px;
+}
+.service-time{
+  padding-top: 10.5rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  color: #fff;
+  background-image: url("../assests/images/TREM\ DOPEMU.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  background-size: cover;
+}
+.service-time-text {
+  color: #fff;
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  line-height: 1;
+  margin: 0 auto;
+  padding: 0 0 6px;
+  font-weight: 700;
+  margin-top: 2cm; 
+  margin-bottom: 1cm; 
+  font-size: 2.7rem;
+}
+
+.section.page-services {
+  margin-bottom: 2cm;
+}
+.card-heading{
+  text-align: center;
+  font-weight: 200;
+  font-size: 2.1rem;
+  font-family: 'calibri';
+}
+.about h2.section-heading {
+  line-height: 1;
+  font-size: 2.5rem;
+  margin-top: 4cm;
+  margin-bottom: 1rem;
+}
+.about h3.section-subheading {
+  font-size: 1.3rem;
+  font-weight: 400;
+  font-style: italic;
+  font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  margin-bottom: 2rem;
+}
+.text {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 3rem;
+  text-align: center;
+  font-size: larger;
+  letter-spacing: 2px;
+  color:  #6c757d;
+}
+.text a {
+  color: #6c757d;
+}
+.centre img{
+  width: 10rem;
+  height: 10rem;
+}
+.centre{
+  margin-left: 480px; 
+  margin-bottom: 50px;
+}
+@media (max-width:660px) {
+  .centre{
+    margin-left: 140px; 
+    margin-bottom: 25px;
+  }
+}
+.card-text{
+  text-align: center;
+  color:  #6c757d;
+}
+.body-of-card{
+  width: 300px;
+}
+.card-pic{
+    width: inherit;
+    height: 200px;
+}
+.sermons{
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../assests/images/mountains.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+}
+.upcoming-events {
+  border-bottom: 1px solid #000;
+  color: #000;
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 3px;
+  line-height: 1;
+  margin: 0 auto;
+  padding: 0 0 6px;
+  font-weight: 500;
+  margin-top: 4cm;
+  margin-bottom: 1cm;
+  font-size: 2.7rem;
+  text-transform: uppercase;
+}
+@media (max-width:660px){
+  .upcoming-events {
+  border-bottom: 0.2px solid black;
+  color: black;
+  line-height: 1;
+  letter-spacing: 2px;
+  font-size: 1.7rem;
+  }
+}
+.faith {
+  color: #fff;
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 3px;
+  line-height: 1;
+  margin: 0 auto;
+  padding: 0 0 6px;
+  font-weight: 700;
+  margin-top: 2cm; 
+  margin-bottom: 1cm; 
+  font-size: 2.7rem;
+  text-transform: uppercase;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.card-center{
+  text-decoration: cyan;
+}
+@media (max-width:660px) {
+  .card-center{
+    margin: unset;
+    margin-left: 70px;
+  }
+  
+}
+#watch-now-btn{
+  margin-bottom: 150px;
+  color: white;
+  background-color: red;
+  border-color: red;
+  text-transform: uppercase;
+  font-size: 12px;
+  padding: 12px;
+}
+
+.join-us-caption {
+  margin-bottom: 16px;
+  font-size: 3.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 0.1rem;
+}
+@media (max-width:660px){
+  .join-us-caption {
+    margin-bottom: 10px;
+    font-size: 2.7rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.1rem;
+  }
+}
+.congregation-caption {
+  margin-bottom: 100px;
+  font-size: 3.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 0.1rem;
+}
+@media (max-width:660px){
+  .congregation-caption {
+    margin-bottom: 60px;
+    font-size: 2.7rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.1rem;
+  }
+}
+.place-caption {
+  margin-bottom: 130px;
+  font-size: 3.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 0.1rem;
+}
+@media (max-width:660px){
+  .place-caption {
+    margin-bottom: 100px;
+    font-size: 2.9rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.1rem;
+  }
+}
+.connect-caption{
+  letter-spacing: 0.2rem;
+}
+.caption1{
+  margin-bottom: 3cm;
+  letter-spacing: 0.2rem;
+}
+.caption2{
+  margin-top: 7cm;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+}
+@media (max-width:660px){
+  .caption2{
+    font-size: 13px;
+    margin-top: 7cm;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+  }
+}
+.responsive {
+  width: 36.4cm;
+  height: 20cm;
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
+}
+@media (max-width:660px) {
+  .responsive {
+    width: 15cm;
+    height: 17cm;
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+  }
+}
+.trem-icon{
+    width: 30px;
+}
+
+#mainNav {
+    padding-top: 1rem;
+    padding-bottom: 1.2rem;
+    background-color: #212529;
+  }
+
+  @media (max-width: 660px){
+    #mainNav{
+      padding-top: 2rem;
+      padding-bottom: 1rem;
+    }
+
+  }
+  #mainNav .navbar-toggler {
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1.4rem;
+    color: black;
+    text-transform: uppercase;
+    border: 0;
+  }
+
+  @media (max-width: 660px){
+    #mainNav .navbar-toggler {
+      position: unset;
+      margin-top: 10px;
+    }
+  }
+
+  #mainNav .navbar-brand {
+    position: unset;
+    margin-left: 11cm;
+    color: #000;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+  }
+  @media (max-width: 660px){
+    #mainNav .navbar-brand{
+      position: unset;
+      margin-left: 1cm;
+      padding-top: 5px;
+      margin-right: 80px;
+    }
+  }
+  
+  
+
+  #mainNav .navbar-brand img {
+    height: 2rem;
+  }
+  #mainNav .navbar-nav .nav-item .nav-link {
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 0.95rem;
+    color: black;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+  }
+  #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #fe3636;
+  }
+  
+  @media (min-width: 992px) {
+    #mainNav {
+      padding-top: 1.5rem;
+      padding-bottom: 1.5rem;
+      border: none;
+      background-color: transparent;
+      transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
+    }
+    #mainNav .navbar-brand {
+      position: unset;
+      margin-right: 13cm;
+      font-size: 1.5em;
+      transition: font-size 0.3s ease-in-out;
+    }
+    
+    #mainNav .navbar-brand img {
+      height: 2rem;
+      transition: height 0.3s ease-in-out;
+    }
+    #mainNav.navbar-shrink {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      background-color: #212529;
+    }
+    #mainNav.navbar-shrink .navbar-brand {
+      font-size: 1.25em;
+    }
+    #mainNav.navbar-shrink .navbar-brand svg,
+  #mainNav.navbar-shrink .navbar-brand img {
+      height: 1.5rem;
+    }
+    #mainNav .navbar-nav .nav-item {
+      margin-right: 1rem;
+    }
+    #mainNav .navbar-nav .nav-item:last-child {
+      margin-right: 0;
+    }
+  }
+  
+  
